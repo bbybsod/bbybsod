@@ -1,11 +1,12 @@
-<img src ="gojo-satoru-hollow-purple.gif">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=u+can+call+me+sean;just+a+chill+guy)](https://git.io/typing-svg)
 
-```css
- .sean_myxzu:
-    weight   : 52kg;
-    height   : 168cm:
-    y_o      : 17thn;
-    Tiktok   : sean.myxzu
-    instagram: sean.myxzu
+```python
+class Sean:
+    def __init__(self):
+        self.name = "Sean"
+        self.location = "Kalimantan Timur, Indonesia"
+        self.work = "Student"
+        self.interests = ["Python", "Programming", "Math"]
+        self.gaming = ["Visual Studio Code"]
+        self.life_motto = "chill"
 ```
