@@ -6,7 +6,6 @@ class Sean:
         self.name = "Sean"
         self.location = "Kalimantan Timur, Indonesia"
         self.work = "Student"
-        self.interests = ["Python", "Programming", "Math"]
-        self.gaming = ["Visual Studio Code"]
+        self.interests = ["Python", "Programming", "Cyber Security", "Math"]
         self.life_motto = "chill"
 ```
