@@ -8,4 +8,6 @@ class Sean:
         self.work = "Student"
         self.interests = ["Python", "Programming", "Cyber Security", "Math"]
         self.life_motto = "chill"
+        self.TikTok = "sean.myxzu"
+        self.InstalGram = "sean.myxzu"
 ```
