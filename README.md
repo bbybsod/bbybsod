@@ -1,15 +1,37 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=u+can+call+me+sean;just+a+chill+guy)](https://git.io/typing-svg)
 
 ```python
-class Sean:
-    def __init__(self):
-        self.name = "Sean"
-        self.location = "Kalimantan Timur, Indonesia"
-        self.work = "Student"
-        self.interests = ["Python", "Programming", "Cyber Security", "Math"]
-        self.life_motto = "chill"
-        self.TikTok = "sean.myxzu"
-        self.InstalGram = "sean.myxzu"
+self1 = {
+    'NAMA': 'Muhammad Rasya',
+}
+
+self2 = {
+    'NAMA':'Rasya Kentang Skibidi',
+}
+
+self3 = {
+    'NAMA':'github.com/bbybsod'
+}
+
+self4 = {
+    'NAMA':'rassyyaa_a'
+}
+
+self = {
+    'NAMA': self1,
+    'FACEBOOOK': self2,
+    'GITHUB': self3,
+    'INSTAGRAM': self4
+
+}
+
+print(f" {'SELF':<10} {'NAME':<20}")
+print(40*'=')
+for saya in self:
+    KEY = saya
+    NAMA = self[KEY]['NAMA']
+    print(f" {KEY:<10} {NAMA:<20}")
+    
 ```
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
