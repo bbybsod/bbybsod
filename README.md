@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=u+can+call+me+sean;just+a+chill+guy)](https://git.io/typing-svg)
 
-<img src="Pixel art GIF.gif" style="width: 100%; border-radius: 10px; margin: 0px; max-height: 300px "  />
+<img src="Pixel art GIF.gif">
 
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
