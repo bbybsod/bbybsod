@@ -18,6 +18,7 @@ i'm a data enthusiast passionate about statistical analysis and data visualizati
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-0CBAE6?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </p>
 
 ---
