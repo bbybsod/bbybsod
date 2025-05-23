@@ -21,6 +21,3 @@ i'm a data enthusiast passionate about statistical analysis and data visualizati
 </p>
 
 ---
-
-## My stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbybsod&show_icons=true&theme=radical)
